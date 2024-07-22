@@ -49,4 +49,4 @@
 
 ## Business
 - :email: ahmed.abdelazim911@gmail.com
-- :paperclip: [My Resume/CV](https://github.com/youssef303m/youssef303m/blob/main/AhmedAESolimanResume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/Ahmed-AESoliman/Ahmed-AESoliman/blob/main/AhmedAESolimanResume.pdf)
