@@ -12,7 +12,7 @@
 - 💼 Currently contributing at **[@mimocodes](https://github.com/MIMOCODES-DEV)** as a **Full Stack Software Engineer**  
 - 📚 Lifelong learner, expanding expertise in **Microservices, Cloud, and API Architectures**  
 - 📫 Reach me at **ahmed.abdelazim911@gmail.com**  
-
+- 📎 [My Resume/CV](https://github.com/Ahmed-AESoliman/Ahmed-AESoliman/blob/main/AhmedAESolimanResume.pdf)  
 ---
 
 ## 🌐 Connect with me  
