@@ -9,7 +9,7 @@
 ### 👨‍💻 About Me  
 - 🚀 Passionate about building **secure, scalable financial platforms**  
 - 🏗️ Experienced with **large fintech systems** like **Saturn** (Blockchain-inspired payout platform) & **Corelink** (Enterprise sync engine)  
-- 💼 Currently contributing at **[@mimocodes](https://github.com/mimocodes)** as a **Full Stack Software Engineer**  
+- 💼 Currently contributing at **[@mimocodes](https://github.com/MIMOCODES-DEV)** as a **Full Stack Software Engineer**  
 - 📚 Lifelong learner, expanding expertise in **Microservices, Cloud, and API Architectures**  
 - 📫 Reach me at **ahmed.abdelazim911@gmail.com**  
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 🚀 Featured Projects @ [mimocodes](https://github.com/mimocodes)  
+## 🚀 Featured Projects @ [mimocodes](https://github.com/MIMOCODES-DEV)  
 
 - **Saturn** – Blockchain-inspired **payout management system** with wallet validation, recurring/scheduled payouts, immutable audit trails, and **queue workers** for background processing.  
 - **Corelink** – **Enterprise multi-service sync engine** integrating XPI (MMS) & MineSec (SoftPOS) with adapter-based architecture and **asynchronous queue orchestration**.  
